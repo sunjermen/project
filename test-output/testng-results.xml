@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13155" started-at="2016-10-03T11:09:45Z" finished-at="2016-10-03T11:09:59Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13155" started-at="2016-10-03T11:09:45Z" finished-at="2016-10-03T11:09:59Z">
+      <class name="ua.wea.selenium.AddAdvMoemisto">
+        <test-method status="PASS" signature="init()[pri:0, instance:ua.wea.selenium.AddAdvMoemisto@1ce92674]" name="init" is-config="true" duration-ms="2827" started-at="2016-10-03T14:09:45Z" finished-at="2016-10-03T14:09:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="test1st()[pri:0, instance:ua.wea.selenium.AddAdvMoemisto@1ce92674]" name="test1st" duration-ms="10317" started-at="2016-10-03T14:09:48Z" finished-at="2016-10-03T14:09:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1st -->
+        <test-method status="PASS" signature="setScreenshot(org.testng.ITestResult)[pri:0, instance:ua.wea.selenium.AddAdvMoemisto@1ce92674]" name="setScreenshot" is-config="true" duration-ms="1" started-at="2016-10-03T14:09:59Z" finished-at="2016-10-03T14:09:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=test1st status=SUCCESS method=AddAdvMoemisto.test1st()[pri:0, instance:ua.wea.selenium.AddAdvMoemisto@1ce92674] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setScreenshot -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:ua.wea.selenium.AddAdvMoemisto@1ce92674]" name="tearDown" is-config="true" duration-ms="1542" started-at="2016-10-03T14:09:59Z" finished-at="2016-10-03T14:10:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- ua.wea.selenium.AddAdvMoemisto -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
